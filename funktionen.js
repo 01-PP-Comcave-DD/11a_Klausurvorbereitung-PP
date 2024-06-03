@@ -16,7 +16,7 @@
 // Navigation über INDEX
 
 // let arr;
-// // // // arr = new Array();  // Möglichkeit
+// // arr = new Array();  // Möglichkeit
 // arr = [false,true,true,false];
 // console.log(arr);
 // console.log(arr[0]);
@@ -43,7 +43,7 @@
 //     };
 
 // console.log(obj);
-// console.log(obj.val0);
+// console.log(obj.val0);          // . der Punkt bringt und in die nächste Ebene
 // console.log(obj.sub1.val2);
 // console.log(obj.sub1.val1);
 // console.log(obj.sub1);
